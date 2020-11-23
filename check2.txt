@@ -1,5 +1,4 @@
-#Joshua C. Peckham
-#Feb 8 2017
+#James nyoro
 
 import sys
 
