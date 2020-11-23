@@ -1,5 +1,4 @@
-#Joshua C. Peckham
-#Feb 8 2017
+#james nyoro
 
 import sys
 def isFloat(string): #this is a defined function to test if the variable is a floating variable  #defining isFloat() to verify it is a floating number
